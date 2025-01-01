@@ -4,12 +4,7 @@ This project demonstrates audio visualization using the powerful 3D graphics lib
 
 ![Audio Visualization](a.png)
 Here is the look!
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Files](#files)
+
 
 
 ## Introduction
